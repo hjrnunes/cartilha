@@ -7,19 +7,45 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2E4309552A570C340095A00C /* AttributeScopes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E4309542A570C340095A00C /* AttributeScopes.swift */; };
+		2E4309572A5712CB0095A00C /* MarkdownView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E4309562A5712CB0095A00C /* MarkdownView.swift */; };
+		2E43095B2A5714FC0095A00C /* TextTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E43095A2A5714FC0095A00C /* TextTheme.swift */; };
+		2E43095D2A57174E0095A00C /* CustomText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E43095C2A57174E0095A00C /* CustomText.swift */; };
+		2E43095F2A5749120095A00C /* WordGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E43095E2A5749120095A00C /* WordGrid.swift */; };
+		2E4309612A575CBC0095A00C /* LessonPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E4309602A575CBC0095A00C /* LessonPage.swift */; };
+		2E4309672A575FCF0095A00C /* LessonsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E4309662A575FCF0095A00C /* LessonsList.swift */; };
+		2E43096C2A5762770095A00C /* Lesson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E43096B2A5762770095A00C /* Lesson.swift */; };
+		2E43096E2A5768A10095A00C /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E43096D2A5768A10095A00C /* ModelData.swift */; };
+		2E4309712A576BD80095A00C /* lessons.json in Resources */ = {isa = PBXBuildFile; fileRef = 2E4309702A576BD80095A00C /* lessons.json */; };
+		2E4309732A576E830095A00C /* LessonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E4309722A576E830095A00C /* LessonView.swift */; };
+		2E4309752A58AA7B0095A00C /* lesson1.md in Resources */ = {isa = PBXBuildFile; fileRef = 2E4309742A58AA7B0095A00C /* lesson1.md */; };
+		2E4309772A58AA9F0095A00C /* GuidanceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E4309762A58AA9F0095A00C /* GuidanceView.swift */; };
 		2EF527D92A560710001443CF /* CartilhaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF527D82A560710001443CF /* CartilhaApp.swift */; };
-		2EF527DB2A560710001443CF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF527DA2A560710001443CF /* ContentView.swift */; };
 		2EF527DD2A560712001443CF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EF527DC2A560712001443CF /* Assets.xcassets */; };
 		2EF527E12A560712001443CF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EF527E02A560712001443CF /* Preview Assets.xcassets */; };
+		2EF527E82A56076F001443CF /* WordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF527E72A56076F001443CF /* WordView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2E4309542A570C340095A00C /* AttributeScopes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AttributeScopes.swift; sourceTree = "<group>"; };
+		2E4309562A5712CB0095A00C /* MarkdownView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarkdownView.swift; sourceTree = "<group>"; };
+		2E43095A2A5714FC0095A00C /* TextTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextTheme.swift; sourceTree = "<group>"; };
+		2E43095C2A57174E0095A00C /* CustomText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomText.swift; sourceTree = "<group>"; };
+		2E43095E2A5749120095A00C /* WordGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordGrid.swift; sourceTree = "<group>"; };
+		2E4309602A575CBC0095A00C /* LessonPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonPage.swift; sourceTree = "<group>"; };
+		2E4309662A575FCF0095A00C /* LessonsList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonsList.swift; sourceTree = "<group>"; };
+		2E43096B2A5762770095A00C /* Lesson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson.swift; sourceTree = "<group>"; };
+		2E43096D2A5768A10095A00C /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		2E4309702A576BD80095A00C /* lessons.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = lessons.json; sourceTree = "<group>"; };
+		2E4309722A576E830095A00C /* LessonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonView.swift; sourceTree = "<group>"; };
+		2E4309742A58AA7B0095A00C /* lesson1.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = lesson1.md; sourceTree = "<group>"; };
+		2E4309762A58AA9F0095A00C /* GuidanceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuidanceView.swift; sourceTree = "<group>"; };
 		2EF527D52A560710001443CF /* Cartilha.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cartilha.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EF527D82A560710001443CF /* CartilhaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartilhaApp.swift; sourceTree = "<group>"; };
-		2EF527DA2A560710001443CF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2EF527DC2A560712001443CF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2EF527DE2A560712001443CF /* Cartilha.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Cartilha.entitlements; sourceTree = "<group>"; };
 		2EF527E02A560712001443CF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2EF527E72A56076F001443CF /* WordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,6 +59,40 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2E4309582A5714960095A00C /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				2E43095A2A5714FC0095A00C /* TextTheme.swift */,
+				2E4309542A570C340095A00C /* AttributeScopes.swift */,
+				2E43096B2A5762770095A00C /* Lesson.swift */,
+				2E43096D2A5768A10095A00C /* ModelData.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		2E4309592A57149C0095A00C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				2E4309662A575FCF0095A00C /* LessonsList.swift */,
+				2E4309722A576E830095A00C /* LessonView.swift */,
+				2E4309602A575CBC0095A00C /* LessonPage.swift */,
+				2E4309762A58AA9F0095A00C /* GuidanceView.swift */,
+				2E43095E2A5749120095A00C /* WordGrid.swift */,
+				2E4309562A5712CB0095A00C /* MarkdownView.swift */,
+				2E43095C2A57174E0095A00C /* CustomText.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		2E43096F2A5768D10095A00C /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				2E4309702A576BD80095A00C /* lessons.json */,
+				2E4309742A58AA7B0095A00C /* lesson1.md */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		2EF527CC2A560710001443CF = {
 			isa = PBXGroup;
 			children = (
@@ -52,11 +112,14 @@
 		2EF527D72A560710001443CF /* Cartilha */ = {
 			isa = PBXGroup;
 			children = (
+				2E4309582A5714960095A00C /* Models */,
+				2E4309592A57149C0095A00C /* Views */,
 				2EF527D82A560710001443CF /* CartilhaApp.swift */,
-				2EF527DA2A560710001443CF /* ContentView.swift */,
+				2E43096F2A5768D10095A00C /* Resources */,
 				2EF527DC2A560712001443CF /* Assets.xcassets */,
 				2EF527DE2A560712001443CF /* Cartilha.entitlements */,
 				2EF527DF2A560712001443CF /* Preview Content */,
+				2EF527E72A56076F001443CF /* WordView.swift */,
 			);
 			path = Cartilha;
 			sourceTree = "<group>";
@@ -129,6 +192,8 @@
 			files = (
 				2EF527E12A560712001443CF /* Preview Assets.xcassets in Resources */,
 				2EF527DD2A560712001443CF /* Assets.xcassets in Resources */,
+				2E4309752A58AA7B0095A00C /* lesson1.md in Resources */,
+				2E4309712A576BD80095A00C /* lessons.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,8 +204,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2EF527DB2A560710001443CF /* ContentView.swift in Sources */,
+				2E4309772A58AA9F0095A00C /* GuidanceView.swift in Sources */,
+				2E4309572A5712CB0095A00C /* MarkdownView.swift in Sources */,
+				2E43095B2A5714FC0095A00C /* TextTheme.swift in Sources */,
+				2E43095F2A5749120095A00C /* WordGrid.swift in Sources */,
+				2E4309732A576E830095A00C /* LessonView.swift in Sources */,
+				2E4309552A570C340095A00C /* AttributeScopes.swift in Sources */,
+				2E43096E2A5768A10095A00C /* ModelData.swift in Sources */,
+				2E43095D2A57174E0095A00C /* CustomText.swift in Sources */,
 				2EF527D92A560710001443CF /* CartilhaApp.swift in Sources */,
+				2E4309672A575FCF0095A00C /* LessonsList.swift in Sources */,
+				2EF527E82A56076F001443CF /* WordView.swift in Sources */,
+				2E4309612A575CBC0095A00C /* LessonPage.swift in Sources */,
+				2E43096C2A5762770095A00C /* Lesson.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,6 +335,7 @@
 		2EF527E52A560712001443CF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALLOW_TARGET_PLATFORM_SPECIALIZATION = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = Cartilha/Cartilha.entitlements;
@@ -287,7 +364,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = hjrnunes.Cartilha;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -297,6 +375,7 @@
 		2EF527E62A560712001443CF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALLOW_TARGET_PLATFORM_SPECIALIZATION = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = Cartilha/Cartilha.entitlements;
@@ -325,7 +404,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = hjrnunes.Cartilha;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

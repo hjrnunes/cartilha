@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "name": "Primeira Lição",
+        "guidance": "lesson1",
+        "pages": [
+            {
+                "rows": [
+                    {
+                        "words": [
+                            "a",
+                            "e"
+                        ],
+                        "align": "center"
+                    },
+                    {
+                        "words": [
+                            "i"
+                        ],
+                        "align": "center"
+                    },
+                    {
+                        "words": [
+                            "o",
+                            "u"
+                        ],
+                        "align": "center"
+                    }
+                ]
+            },
+            {
+                "rows": [
+                    {
+                        "words": [
+                            "ai"
+                        ],
+                        "align": "center"
+                    },
+                    {
+                        "words": [
+                            "ui"
+                        ],
+                        "align": "center"
+                    },
+                    {
+                        "words": [
+                            "eu",
+                            "ia"
+                        ],
+                        "align": "center"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Segunda Lição",
+        "guidance": "",
+        "pages": [
+            {
+                "rows": [
+                    {
+                        "words": [
+                            "v"
+                        ],
+                        "align": "center"
+                    },
+                    {
+                        "words": [
+                            "vá",
+                            "vai"
+                        ]
+                    },
+                    {
+                        "words": [
+                            "vi",
+                            "via",
+                            "viu"
+                        ]
+                    },
+                    {
+                        "words": [
+                            "vivi",
+                            "vivia"
+                        ]
+                    },
+                    {
+                        "words": ["viveu","viva"]
+                    },
+                    {
+                        "words": ["uva","viuva"]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Terceira Lição",
+        "guidance": "",
+        "pages": [
+            {
+                "rows": [
+                    {
+                        "words": ["f"],
+                        "align": "center"
+                    },
+                    {
+                        "words": ["fé"]
+                    },
+                    {
+                        "words": ["fui"]
+                    },
+                    {
+                        "words": ["fia", "fiava"]
+                    },
+                    {
+                        "words": ["afia", "afiava"]
+                    },
+                    {
+                        "words": ["fava"]
+                    }
+                ]
+            }
+        ]
+    }
+]
