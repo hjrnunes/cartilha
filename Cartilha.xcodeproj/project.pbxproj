@@ -23,7 +23,6 @@
 		2EF527D92A560710001443CF /* CartilhaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF527D82A560710001443CF /* CartilhaApp.swift */; };
 		2EF527DD2A560712001443CF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EF527DC2A560712001443CF /* Assets.xcassets */; };
 		2EF527E12A560712001443CF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EF527E02A560712001443CF /* Preview Assets.xcassets */; };
-		2EF527E82A56076F001443CF /* WordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF527E72A56076F001443CF /* WordView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,7 +44,6 @@
 		2EF527DC2A560712001443CF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2EF527DE2A560712001443CF /* Cartilha.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Cartilha.entitlements; sourceTree = "<group>"; };
 		2EF527E02A560712001443CF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		2EF527E72A56076F001443CF /* WordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,7 +117,6 @@
 				2EF527DC2A560712001443CF /* Assets.xcassets */,
 				2EF527DE2A560712001443CF /* Cartilha.entitlements */,
 				2EF527DF2A560712001443CF /* Preview Content */,
-				2EF527E72A56076F001443CF /* WordView.swift */,
 			);
 			path = Cartilha;
 			sourceTree = "<group>";
@@ -214,7 +211,6 @@
 				2E43095D2A57174E0095A00C /* CustomText.swift in Sources */,
 				2EF527D92A560710001443CF /* CartilhaApp.swift in Sources */,
 				2E4309672A575FCF0095A00C /* LessonsList.swift in Sources */,
-				2EF527E82A56076F001443CF /* WordView.swift in Sources */,
 				2E4309612A575CBC0095A00C /* LessonPage.swift in Sources */,
 				2E43096C2A5762770095A00C /* Lesson.swift in Sources */,
 			);
