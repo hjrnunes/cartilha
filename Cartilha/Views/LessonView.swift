@@ -13,36 +13,37 @@ struct LessonView: View {
     var selectedTheme: TextTheme
     
     var body: some View {
-        let v = ZStack {
-            TabView {
-                ForEach(lesson.pages, id: \.self) { page in
-                    LessonPage(page: page, selectedTheme: selectedTheme)
-                        .focusable()
-                }
-            }
-            .tabViewStyle(.page)
-            .indexViewStyle(.page(backgroundDisplayMode: .always))
-            VStack {
-                Spacer()
-                HStack {
-                    Spacer()
-                    NavigationLink {
-                        GuidanceView(lesson: lesson)
-                    } label: {
-                        Image(systemName: "info.circle")
+        GeometryReader { geometry in
+            let height = geometry.size.height
+            let width = geometry.size.width
+            
+            ZStack {
+                ScrollView(.horizontal) {
+                    HStack {
+                        ForEach(lesson.pages, id: \.self) { page in
+                            LessonPage(page: page, selectedTheme: selectedTheme)
+                                .frame(width: width, height: height )
+                                .focusable()
+                                .background(.red)
+                        }
                     }
-                    .padding()
-                    .padding(.horizontal, 30)
-                    .focusable()
+                }
+                VStack {
+                    Spacer()
+                    HStack {
+                        Spacer()
+                        NavigationLink {
+                            GuidanceView(lesson: lesson)
+                            
+                        } label: {
+                            Image(systemName: "info.circle")
+                        }
+                        .padding()
+                        .padding(.horizontal, 30)
+                    }
                 }
             }
         }
-        #if os(tvOS)
-        v
-        #else
-        v
-        .navigationBarTitleDisplayMode(.inline)
-        #endif
     }
 }
 
