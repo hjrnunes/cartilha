@@ -9,9 +9,9 @@ import SwiftUI
 
 public enum CustomColorAttributes: CodableAttributedStringKey, MarkdownDecodableAttributedStringKey {
     public enum Value: String, Codable {
-        case emphasis
+        case y
     }
-    public static var name = "role"
+    public static var name = "e"
 }
 
 // Creating an extension to the existing AttributeScopes type

@@ -12,11 +12,12 @@ struct CustomText: View {
     private var attributedString: AttributedString
     
     // Store the font and set a default value with Font.system(body)
-    private var font: Font = .system(.body)
+    private var font: Font = .system(.body, design: .serif)
     
     // Ensure the body of the view has a standard SwiftUI.Text to render the stored attributedString
     public var body: some View {
         Text(attributedString)
+            .lineLimit(nil)
     }
     
     // Set an initializer similar to SwiftUI.Text to take an attributed string as a parameter.
@@ -55,8 +56,8 @@ struct CustomText: View {
             // Checks if the run has a value for customColor
             if let value = run.customColor {
                 // If the value is emphasis, apply the color styles.
-                if value == .emphasis {
-                    attrString[range].foregroundColor = .orange
+                if value == .y {
+                    attrString[range].foregroundColor = .white
                 }
             }
         }

@@ -1,3 +1,6 @@
+# Primeira Lição
+
+
 Consistindo a leitura na combinação das letras, basta ir aprendendo as letras que se podem ir combinando; o mais é confusão; e não podendo haver combinação sem vogal, comecemos pelas vogaes (deixando de fóra o ypsilon para não surprender logo no principio o alumno com duas letras que se leem do mesmo modo, tendo diverso nome e fórma). Chamemos essas letras pelos seus nomes, á, é, í, ó, ú, que depois iremos determinando os seus diversos valores.
 
 Estas letras aprendem-se facilmente: representando a quinta parte do abecedario quanto ao numero, estão fóra de representar a vigesima, quanto aos embaraços; porque são homogeneas, todas se pronunciam com a bôca aberta, e filiam-se naturalmente na voz e na memoria. É por isso tambem que apresentamos todas cinco duma vez.

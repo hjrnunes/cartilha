@@ -13,10 +13,22 @@ struct MarkdownView: View {
     var selectedTheme: TextTheme
     
     var body: some View {
-        CustomText(convertMarkdown(markdownString))
+        CustomText(convertMarkdown(toMarkdown(markdownString)))
             .padding(.horizontal, 3.0)
             .padding(.vertical, 5.0)
-            
+            .lineLimit(nil)
+    }
+    
+    private func toMarkdown(_ string: String) -> String {
+        var tokens: [String] = []
+        for (index, element) in string.split(separator: "|").enumerated() {
+            if index % 2 == 0 {
+                tokens.append("^[\(element)](e:'y')")
+            } else {
+                tokens.append("\(element)")
+            }
+        }
+        return tokens.joined(separator: "")
     }
     
     private func convertMarkdown(_ string: String) -> AttributedString {
@@ -34,6 +46,7 @@ struct MarkdownView: View {
 
 struct MardownView_Previews: PreviewProvider {
     static var previews: some View {
-        MarkdownView(markdownString: "per^[se](role: 'emphasis')guisses", selectedTheme: .times)
+        
+        MarkdownView(markdownString: "a|ba|fa|da", selectedTheme: .ny)
     }
 }

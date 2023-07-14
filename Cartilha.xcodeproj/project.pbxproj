@@ -20,6 +20,30 @@
 		2E4309732A576E830095A00C /* LessonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E4309722A576E830095A00C /* LessonView.swift */; };
 		2E4309752A58AA7B0095A00C /* lesson1.md in Resources */ = {isa = PBXBuildFile; fileRef = 2E4309742A58AA7B0095A00C /* lesson1.md */; };
 		2E4309772A58AA9F0095A00C /* GuidanceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E4309762A58AA9F0095A00C /* GuidanceView.swift */; };
+		2EB325082A5DFFCF00BAAA32 /* lesson13.md in Resources */ = {isa = PBXBuildFile; fileRef = 2EB324F12A5DFFCD00BAAA32 /* lesson13.md */; };
+		2EB325092A5DFFCF00BAAA32 /* lesson15.md in Resources */ = {isa = PBXBuildFile; fileRef = 2EB324F22A5DFFCD00BAAA32 /* lesson15.md */; };
+		2EB3250A2A5DFFCF00BAAA32 /* lesson12.md in Resources */ = {isa = PBXBuildFile; fileRef = 2EB324F32A5DFFCD00BAAA32 /* lesson12.md */; };
+		2EB3250B2A5DFFCF00BAAA32 /* lesson18.md in Resources */ = {isa = PBXBuildFile; fileRef = 2EB324F42A5DFFCD00BAAA32 /* lesson18.md */; };
+		2EB3250C2A5DFFCF00BAAA32 /* lesson4.md in Resources */ = {isa = PBXBuildFile; fileRef = 2EB324F52A5DFFCD00BAAA32 /* lesson4.md */; };
+		2EB3250D2A5DFFCF00BAAA32 /* lesson7.md in Resources */ = {isa = PBXBuildFile; fileRef = 2EB324F62A5DFFCD00BAAA32 /* lesson7.md */; };
+		2EB3250E2A5DFFCF00BAAA32 /* lesson8.md in Resources */ = {isa = PBXBuildFile; fileRef = 2EB324F72A5DFFCD00BAAA32 /* lesson8.md */; };
+		2EB3250F2A5DFFCF00BAAA32 /* lesson11.md in Resources */ = {isa = PBXBuildFile; fileRef = 2EB324F82A5DFFCD00BAAA32 /* lesson11.md */; };
+		2EB325102A5DFFCF00BAAA32 /* lesson10.md in Resources */ = {isa = PBXBuildFile; fileRef = 2EB324F92A5DFFCD00BAAA32 /* lesson10.md */; };
+		2EB325112A5DFFCF00BAAA32 /* lesson9.md in Resources */ = {isa = PBXBuildFile; fileRef = 2EB324FA2A5DFFCE00BAAA32 /* lesson9.md */; };
+		2EB325122A5DFFCF00BAAA32 /* lesson6.md in Resources */ = {isa = PBXBuildFile; fileRef = 2EB324FB2A5DFFCE00BAAA32 /* lesson6.md */; };
+		2EB325132A5DFFCF00BAAA32 /* lesson16.md in Resources */ = {isa = PBXBuildFile; fileRef = 2EB324FC2A5DFFCE00BAAA32 /* lesson16.md */; };
+		2EB325142A5DFFCF00BAAA32 /* lesson14.md in Resources */ = {isa = PBXBuildFile; fileRef = 2EB324FD2A5DFFCE00BAAA32 /* lesson14.md */; };
+		2EB325152A5DFFCF00BAAA32 /* lesson17.md in Resources */ = {isa = PBXBuildFile; fileRef = 2EB324FE2A5DFFCE00BAAA32 /* lesson17.md */; };
+		2EB325162A5DFFCF00BAAA32 /* lesson21.md in Resources */ = {isa = PBXBuildFile; fileRef = 2EB324FF2A5DFFCE00BAAA32 /* lesson21.md */; };
+		2EB325172A5DFFCF00BAAA32 /* lesson23.md in Resources */ = {isa = PBXBuildFile; fileRef = 2EB325002A5DFFCE00BAAA32 /* lesson23.md */; };
+		2EB325182A5DFFCF00BAAA32 /* lesson5.md in Resources */ = {isa = PBXBuildFile; fileRef = 2EB325012A5DFFCE00BAAA32 /* lesson5.md */; };
+		2EB325192A5DFFCF00BAAA32 /* lesson24.md in Resources */ = {isa = PBXBuildFile; fileRef = 2EB325022A5DFFCE00BAAA32 /* lesson24.md */; };
+		2EB3251A2A5DFFCF00BAAA32 /* lesson19.md in Resources */ = {isa = PBXBuildFile; fileRef = 2EB325032A5DFFCE00BAAA32 /* lesson19.md */; };
+		2EB3251B2A5DFFCF00BAAA32 /* lesson2.md in Resources */ = {isa = PBXBuildFile; fileRef = 2EB325042A5DFFCE00BAAA32 /* lesson2.md */; };
+		2EB3251C2A5DFFCF00BAAA32 /* lesson22.md in Resources */ = {isa = PBXBuildFile; fileRef = 2EB325052A5DFFCE00BAAA32 /* lesson22.md */; };
+		2EB3251D2A5DFFCF00BAAA32 /* lesson20.md in Resources */ = {isa = PBXBuildFile; fileRef = 2EB325062A5DFFCE00BAAA32 /* lesson20.md */; };
+		2EB3251E2A5DFFCF00BAAA32 /* lesson3.md in Resources */ = {isa = PBXBuildFile; fileRef = 2EB325072A5DFFCE00BAAA32 /* lesson3.md */; };
+		2EB325222A5F504E00BAAA32 /* lessons.edn in Resources */ = {isa = PBXBuildFile; fileRef = 2EB325212A5F504E00BAAA32 /* lessons.edn */; };
 		2EF527D92A560710001443CF /* CartilhaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF527D82A560710001443CF /* CartilhaApp.swift */; };
 		2EF527DD2A560712001443CF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EF527DC2A560712001443CF /* Assets.xcassets */; };
 		2EF527E12A560712001443CF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EF527E02A560712001443CF /* Preview Assets.xcassets */; };
@@ -39,6 +63,34 @@
 		2E4309722A576E830095A00C /* LessonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonView.swift; sourceTree = "<group>"; };
 		2E4309742A58AA7B0095A00C /* lesson1.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = lesson1.md; sourceTree = "<group>"; };
 		2E4309762A58AA9F0095A00C /* GuidanceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuidanceView.swift; sourceTree = "<group>"; };
+		2EB324E52A5C941A00BAAA32 /* CartilhaTVOSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartilhaTVOSApp.swift; sourceTree = "<group>"; };
+		2EB324E72A5C941A00BAAA32 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		2EB324E92A5C941B00BAAA32 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		2EB324EC2A5C941B00BAAA32 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2EB324F12A5DFFCD00BAAA32 /* lesson13.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = lesson13.md; sourceTree = "<group>"; };
+		2EB324F22A5DFFCD00BAAA32 /* lesson15.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = lesson15.md; sourceTree = "<group>"; };
+		2EB324F32A5DFFCD00BAAA32 /* lesson12.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = lesson12.md; sourceTree = "<group>"; };
+		2EB324F42A5DFFCD00BAAA32 /* lesson18.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = lesson18.md; sourceTree = "<group>"; };
+		2EB324F52A5DFFCD00BAAA32 /* lesson4.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = lesson4.md; sourceTree = "<group>"; };
+		2EB324F62A5DFFCD00BAAA32 /* lesson7.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = lesson7.md; sourceTree = "<group>"; };
+		2EB324F72A5DFFCD00BAAA32 /* lesson8.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = lesson8.md; sourceTree = "<group>"; };
+		2EB324F82A5DFFCD00BAAA32 /* lesson11.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = lesson11.md; sourceTree = "<group>"; };
+		2EB324F92A5DFFCD00BAAA32 /* lesson10.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = lesson10.md; sourceTree = "<group>"; };
+		2EB324FA2A5DFFCE00BAAA32 /* lesson9.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = lesson9.md; sourceTree = "<group>"; };
+		2EB324FB2A5DFFCE00BAAA32 /* lesson6.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = lesson6.md; sourceTree = "<group>"; };
+		2EB324FC2A5DFFCE00BAAA32 /* lesson16.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = lesson16.md; sourceTree = "<group>"; };
+		2EB324FD2A5DFFCE00BAAA32 /* lesson14.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = lesson14.md; sourceTree = "<group>"; };
+		2EB324FE2A5DFFCE00BAAA32 /* lesson17.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = lesson17.md; sourceTree = "<group>"; };
+		2EB324FF2A5DFFCE00BAAA32 /* lesson21.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = lesson21.md; sourceTree = "<group>"; };
+		2EB325002A5DFFCE00BAAA32 /* lesson23.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = lesson23.md; sourceTree = "<group>"; };
+		2EB325012A5DFFCE00BAAA32 /* lesson5.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = lesson5.md; sourceTree = "<group>"; };
+		2EB325022A5DFFCE00BAAA32 /* lesson24.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = lesson24.md; sourceTree = "<group>"; };
+		2EB325032A5DFFCE00BAAA32 /* lesson19.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = lesson19.md; sourceTree = "<group>"; };
+		2EB325042A5DFFCE00BAAA32 /* lesson2.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = lesson2.md; sourceTree = "<group>"; };
+		2EB325052A5DFFCE00BAAA32 /* lesson22.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = lesson22.md; sourceTree = "<group>"; };
+		2EB325062A5DFFCE00BAAA32 /* lesson20.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = lesson20.md; sourceTree = "<group>"; };
+		2EB325072A5DFFCE00BAAA32 /* lesson3.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = lesson3.md; sourceTree = "<group>"; };
+		2EB325212A5F504E00BAAA32 /* lessons.edn */ = {isa = PBXFileReference; explicitFileType = text; fileEncoding = 4; path = lessons.edn; sourceTree = "<group>"; };
 		2EF527D52A560710001443CF /* Cartilha.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cartilha.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EF527D82A560710001443CF /* CartilhaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartilhaApp.swift; sourceTree = "<group>"; };
 		2EF527DC2A560712001443CF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -85,16 +137,60 @@
 		2E43096F2A5768D10095A00C /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				2EB325212A5F504E00BAAA32 /* lessons.edn */,
 				2E4309702A576BD80095A00C /* lessons.json */,
 				2E4309742A58AA7B0095A00C /* lesson1.md */,
+				2EB325042A5DFFCE00BAAA32 /* lesson2.md */,
+				2EB325072A5DFFCE00BAAA32 /* lesson3.md */,
+				2EB324F52A5DFFCD00BAAA32 /* lesson4.md */,
+				2EB325012A5DFFCE00BAAA32 /* lesson5.md */,
+				2EB324FB2A5DFFCE00BAAA32 /* lesson6.md */,
+				2EB324F62A5DFFCD00BAAA32 /* lesson7.md */,
+				2EB324F72A5DFFCD00BAAA32 /* lesson8.md */,
+				2EB324FA2A5DFFCE00BAAA32 /* lesson9.md */,
+				2EB324F92A5DFFCD00BAAA32 /* lesson10.md */,
+				2EB324F82A5DFFCD00BAAA32 /* lesson11.md */,
+				2EB324F32A5DFFCD00BAAA32 /* lesson12.md */,
+				2EB324F12A5DFFCD00BAAA32 /* lesson13.md */,
+				2EB324FD2A5DFFCE00BAAA32 /* lesson14.md */,
+				2EB324F22A5DFFCD00BAAA32 /* lesson15.md */,
+				2EB324FC2A5DFFCE00BAAA32 /* lesson16.md */,
+				2EB324FE2A5DFFCE00BAAA32 /* lesson17.md */,
+				2EB324F42A5DFFCD00BAAA32 /* lesson18.md */,
+				2EB325032A5DFFCE00BAAA32 /* lesson19.md */,
+				2EB325062A5DFFCE00BAAA32 /* lesson20.md */,
+				2EB324FF2A5DFFCE00BAAA32 /* lesson21.md */,
+				2EB325052A5DFFCE00BAAA32 /* lesson22.md */,
+				2EB325002A5DFFCE00BAAA32 /* lesson23.md */,
+				2EB325022A5DFFCE00BAAA32 /* lesson24.md */,
 			);
 			path = Resources;
+			sourceTree = "<group>";
+		};
+		2EB324E42A5C941A00BAAA32 /* CartilhaTVOS */ = {
+			isa = PBXGroup;
+			children = (
+				2EB324E52A5C941A00BAAA32 /* CartilhaTVOSApp.swift */,
+				2EB324E72A5C941A00BAAA32 /* ContentView.swift */,
+				2EB324E92A5C941B00BAAA32 /* Assets.xcassets */,
+				2EB324EB2A5C941B00BAAA32 /* Preview Content */,
+			);
+			path = CartilhaTVOS;
+			sourceTree = "<group>";
+		};
+		2EB324EB2A5C941B00BAAA32 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				2EB324EC2A5C941B00BAAA32 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
 			sourceTree = "<group>";
 		};
 		2EF527CC2A560710001443CF = {
 			isa = PBXGroup;
 			children = (
 				2EF527D72A560710001443CF /* Cartilha */,
+				2EB324E42A5C941A00BAAA32 /* CartilhaTVOS */,
 				2EF527D62A560710001443CF /* Products */,
 			);
 			sourceTree = "<group>";
@@ -187,10 +283,34 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2EB3250D2A5DFFCF00BAAA32 /* lesson7.md in Resources */,
 				2EF527E12A560712001443CF /* Preview Assets.xcassets in Resources */,
+				2EB325192A5DFFCF00BAAA32 /* lesson24.md in Resources */,
+				2EB325222A5F504E00BAAA32 /* lessons.edn in Resources */,
+				2EB3250A2A5DFFCF00BAAA32 /* lesson12.md in Resources */,
+				2EB3251C2A5DFFCF00BAAA32 /* lesson22.md in Resources */,
+				2EB325182A5DFFCF00BAAA32 /* lesson5.md in Resources */,
 				2EF527DD2A560712001443CF /* Assets.xcassets in Resources */,
+				2EB325162A5DFFCF00BAAA32 /* lesson21.md in Resources */,
+				2EB3250F2A5DFFCF00BAAA32 /* lesson11.md in Resources */,
+				2EB325132A5DFFCF00BAAA32 /* lesson16.md in Resources */,
+				2EB3251A2A5DFFCF00BAAA32 /* lesson19.md in Resources */,
+				2EB325142A5DFFCF00BAAA32 /* lesson14.md in Resources */,
+				2EB325082A5DFFCF00BAAA32 /* lesson13.md in Resources */,
+				2EB3251E2A5DFFCF00BAAA32 /* lesson3.md in Resources */,
 				2E4309752A58AA7B0095A00C /* lesson1.md in Resources */,
+				2EB3250C2A5DFFCF00BAAA32 /* lesson4.md in Resources */,
+				2EB325172A5DFFCF00BAAA32 /* lesson23.md in Resources */,
+				2EB3251B2A5DFFCF00BAAA32 /* lesson2.md in Resources */,
+				2EB325152A5DFFCF00BAAA32 /* lesson17.md in Resources */,
+				2EB3250E2A5DFFCF00BAAA32 /* lesson8.md in Resources */,
+				2EB325092A5DFFCF00BAAA32 /* lesson15.md in Resources */,
+				2EB325122A5DFFCF00BAAA32 /* lesson6.md in Resources */,
 				2E4309712A576BD80095A00C /* lessons.json in Resources */,
+				2EB3251D2A5DFFCF00BAAA32 /* lesson20.md in Resources */,
+				2EB325102A5DFFCF00BAAA32 /* lesson10.md in Resources */,
+				2EB325112A5DFFCF00BAAA32 /* lesson9.md in Resources */,
+				2EB3250B2A5DFFCF00BAAA32 /* lesson18.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -342,6 +462,8 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Cartilha Maternal";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -360,11 +482,12 @@
 				PRODUCT_BUNDLE_IDENTIFIER = hjrnunes.Cartilha;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
+				SUPPORTED_PLATFORMS = "appletvos appletvsimulator iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = YES;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = "1,2,3";
 			};
 			name = Debug;
 		};
@@ -382,6 +505,8 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Cartilha Maternal";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -400,11 +525,12 @@
 				PRODUCT_BUNDLE_IDENTIFIER = hjrnunes.Cartilha;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
+				SUPPORTED_PLATFORMS = "appletvos appletvsimulator iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = YES;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = "1,2,3";
 			};
 			name = Release;
 		};

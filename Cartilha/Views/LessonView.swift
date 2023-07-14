@@ -13,10 +13,11 @@ struct LessonView: View {
     var selectedTheme: TextTheme
     
     var body: some View {
-        ZStack {
+        let v = ZStack {
             TabView {
                 ForEach(lesson.pages, id: \.self) { page in
                     LessonPage(page: page, selectedTheme: selectedTheme)
+                        .focusable()
                 }
             }
             .tabViewStyle(.page)
@@ -32,15 +33,21 @@ struct LessonView: View {
                     }
                     .padding()
                     .padding(.horizontal, 30)
+                    .focusable()
                 }
             }
         }
+        #if os(tvOS)
+        v
+        #else
+        v
         .navigationBarTitleDisplayMode(.inline)
+        #endif
     }
 }
 
 struct LessonView_Previews: PreviewProvider {
     static var previews: some View {
-        LessonView(lesson: ModelData().lessons[0], selectedTheme: .times)
+        LessonView(lesson: ModelData().lessons[0], selectedTheme: .ny)
     }
 }

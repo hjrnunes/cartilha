@@ -1,0 +1,548 @@
+[
+ {:id       1
+  :name     "Primeira Lição"
+  :guidance "lesson1"
+  :pages    [{:rows [{:words ["a" "e"]}
+                     {:words ["i"]
+                      :align "center"}
+                     {:words ["o" "u"]}]}
+             {:rows [{:words ["ai"]
+                      :align "center"}
+                     {:words ["ui"]
+                      :align "center"}
+                     {:words ["eu" "i|a"]}]}]}
+
+ {:id       2
+  :name     "Segunda Lição"
+  :guidance "lesson2"
+  :pages    [{:rows [{:words ["v"]
+                      :align "center"}
+                     {:words ["vá" "vai"]}
+                     {:words ["vi" "vi|a" "viu"]}
+                     {:words ["vi|vi" "vi|vi|a"]}
+                     {:words ["vi|veu" "vi|va"]}
+                     {:words ["u|va" "vi|u|va"]}]}
+             ]}
+
+ {:id       3
+  :name     "Terceira Lição"
+  :guidance "lesson3"
+  :pages    [{:rows [{:words ["f"]
+                      :align "center"}
+                     {:words ["fé"]}
+                     {:words ["fui"]}
+                     {:words ["fi|a" "fi|a|va"]}
+                     {:words ["a|fi|a" "a|fi|a|va"]}
+                     {:words ["fa|va"]}]}
+             ]}
+ {:id       4
+  :name     "Quarta Lição"
+  :guidance "lesson4"
+  :pages    [{:rows [{:words ["j"]
+                      :align "center"}
+                     {:words ["já"]}
+                     {:words ["fu|ja"]}
+                     {:words ["ve|ja"]}
+                     {:words ["vi|a|ja"]}
+                     {:words ["vi|a|ja|va"]}]}
+             ]}
+ {:id       5
+  :name     "Quinta Lição"
+  :guidance "lesson5"
+  :pages    [{:rows [{:words ["t"]
+                      :align "center"}
+                     {:words ["tu" "teu"]}
+                     {:words ["tu|a" "ti|a"]}
+                     {:words ["a|ta" "a|ta|va"]}
+                     {:words ["fi|ta" "fa|ti|a"]}
+                     {:words ["fa|ti|o|ta"]}]}
+             ]}
+ {:id       6
+  :name     "Sexta Lição"
+  :guidance "lesson6"
+  :pages    [{:rows [{:words ["d"]
+                      :align "center"}
+                     {:words ["di|a"]}
+                     {:words ["dó" "dói"]}
+                     {:words ["dá" "deu" "da|da"]}]}
+             {:rows [{:words ["da|va" "de|va"]}
+                     {:words ["vi|da" "du|vi|da"]}
+                     {:words ["i|da" "i|di|o|ta"]}
+                     {:words ["ju|di|a" "ju|deu"]}
+                     {:words ["a|ju|da"]}
+                     {:words ["fi|a|da" "a|fi|a|da"]}]}
+             ]}
+ {:id       7
+  :name     "Sétima Lição"
+  :guidance "lesson7"
+  :pages    [{:rows [{:words ["b"]
+                      :align "center"}
+                     {:words ["boi"]}
+                     {:words ["boa"]}
+                     {:words ["a|ba" "ba|ba"]}
+                     {:words ["be|ba"]}
+                     {:words ["ba|ta" "ba|ti|a"]}]}
+             {:rows [{:words ["ba|teu" "ba|ti|da"]}
+                     {:words ["bo|ta" "ba|ta|ta"]}
+                     {:words ["a|ba|ta" "a|ba|ti|a"]}
+                     {:words ["a|ba|ti|da"]}
+                     {:words ["a|ba|fa" "a|ba|fa|va"]}
+                     {:words ["a|ba|fa|da"]}]}
+             ]}
+ {:id       8
+  :name     "Oitava Lição"
+  :guidance "lesson8"
+  :pages    [{:rows [{:words ["p"]
+                      :align "center"}
+                     {:words ["pai"]}
+                     {:words ["pá" "pó" "pé"]}
+                     {:words ["pu|a" "pi|a" "pi|pa"]}
+                     {:words ["pa|pa" "pa|pa|va"]}
+                     {:words ["pa|pa|da"]}]}
+             {:rows [{:words ["pe|ta" "pa|ta"]}
+                     {:words ["pa|ta|da"]}
+                     {:words ["pi|ta" "pi|ta|da"]}
+                     {:words ["to|pa"]}
+                     {:words ["ta|pa" "ta|pa|va"]}
+                     {:words ["ta|pa|da"]}]}
+             ]}
+ {:id       9
+  :name     "Nona Lição"
+  :guidance "lesson9"
+  :pages    [{:rows [{:words ["l"]
+                      :align "center"}
+                     {:words ["li" "li|a" "leu" "lu|a"]}
+                     {:words ["lu|va" "lo|ja" "lu|ta"]}
+                     {:words ["la|bu|ta" "bi|to|la"]}
+                     {:words ["bo|la" "be|la"]}
+                     {:words ["fa|la" "fi|ve|la"]}
+                     {:words ["lá" "o|lá" "a|li"]}]}
+             {:rows [{:words ["vil" "fel" "fi|el" "tal"]}
+                     {:words ["fa|tal" "fa|val"]}
+                     {:words ["pa|úl" "pa|pel"]}
+                     {:words ["al|va" "al|ta"]}
+                     {:words ["fal|ta" "vol|ta"]}
+                     {:words ["pol|pa" "a|pal|pa"]}
+                     {:words ["a|pal|pa|de|la"]}]}
+             ]}
+ {:id       10
+  :name     "Décima Lição"
+  :guidance "lesson10"
+  :pages    [{:rows [{:words ["k"]
+                      :align "center"}
+                     {:words ["ki|lo"]
+                      :align "center"}
+                     {:words ["vi|vo" "vi|u|vo"]}
+                     {:words ["vi|a|jo" "ve|jo"]}
+                     {:words ["fu|jo" "fa|vo" "fa|to"]}
+                     {:words ["a|to" "ba|to" "ba|fo"]}
+                     {:words ["a|ba|fo" "ba|fi|o"]}]}
+             {:rows [{:words ["a|ba|lo" "fa|lo"]}
+                     {:words ["lu|to" "la|do" "li|do"]}
+                     {:words ["pa|to" "pa|vi|o"]}
+                     {:words ["pu|lo" "pa|pal|vo"]}
+                     {:words ["bal|do" "bal|di|o"]}
+                     {:words ["bo|lo" "lo|bo" "lo|do"]}
+                     {:words ["o|vo" "to|lo" "tôl|do"]}]}
+             ]}
+ {:id       11
+  :name     "Undécima Lição"
+  :guidance "lesson11"
+  :pages    [{:rows [{:words ["a|vô"]
+                      :align "tracking"}
+                     {:words ["vou" "a|vi|ou"]}
+                     {:words ["vi|u|vou" "vi|a|jou"]}
+                     {:words ["dou" "a|tou" "fi|ou"]}
+                     {:words ["ba|bou" "pi|ou"]}
+                     {:words ["pa|pou" "a|pu|pou"]}
+                     {:words ["ta|pou" "pu|lou"]}]}
+             {:rows [{:words ["fa|lou" "a|li|vi|ou"]}
+                     {:words ["a|ba|fou" "ou|vi"]}
+                     {:words ["ou|vi|a" "ou|viu"]}
+                     {:words ["ou|vi|do" "lou|va"]}
+                     {:words ["lou|vo" "lou|vou"]}
+                     {:words ["pou|pa" "pou|po"]}
+                     {:words ["pou|pou"]}]}
+             ]}
+ {:id       12
+  :name     "Duodécima Lição"
+  :guidance "lesson12"
+  :pages    [{:rows [{:words ["dê" "lê"]
+                      :align "tracking"}
+                     {:words ["dei" "lei" "a|tei"]}
+                     {:words ["pa|pei" "la|vei"]}
+                     {:words ["a|ba|lei" "fei|ta"]}
+                     {:words ["fei|to" "fei|ti|o"]}
+                     {:words ["dei|to" "dei|tou"]}
+                     {:words ["dei|tei" "ba|bei"]}]}
+             {:rows [{:words ["bei|ja" "bei|jo"]}
+                     {:words ["bei|jou" "bei|jei"]}
+                     {:words ["dei-a" "dei-o"]}
+                     {:words ["vei|a" "vei|o"]}
+                     {:words ["fei|a" "fei|o"]}
+                     {:words ["lei|a" "lei|o"]}
+                     {:words ["pei|a" "tei|a"]}]}
+             ]}
+ {:id       13
+  :name     "Décima Terceira Lição"
+  :guidance "lesson13"
+  :pages    [{:rows [{:words ["a|ve" "vi|ve" "ti|ve"]}
+                     {:words ["a|te" "a|ju|de"]}
+                     {:words ["ta|pe" "to|pe" "po|te"]}
+                     {:words ["po|de" "pô|de"]}
+                     {:words ["bu|le" "bo|le" "bo|te"]}
+                     {:words ["ba|te" "bo|de" "bo|fe"]}
+                     {:words ["bi|fe" "fo|le" "fa|le"]}]}
+             {:rows [{:words ["la|ve" "vol|te"]}
+                     {:words ["fal|te" "a|pal|pe"]}
+                     {:words ["pe|le" "pe|de"]}
+                     {:words ["pe|di" "pe|diu"]}
+                     {:words ["pe|lei" "pe|lou"]}
+                     {:words ["ve|lei" "ve|lou"]}
+                     {:words ["le|vou" "de|dal"]}]}
+             ]}
+ {:id       14
+  :name     "Décima Quarta Lição"
+  :guidance "lesson14"
+  :pages    [{:rows [{:words ["q"]
+                      :align "center"}
+                     {:words ["que" "qui"]
+                      :align "center"}
+                     {:words ["fi|que" "fi|quei"]}
+                     {:words ["to|que" "to|quei"]}
+                     {:words ["a|ta|quei" "pi|que"]}
+                     {:words ["a|ta|que" "pi|quei"]}
+                     {:words ["du|que" "le|que"]}
+                     {:words ["ba|que" "ja|que|ta"]}]}
+             {:rows [{:words ["a|pli|que"]}
+                     {:words ["a|pli|quei"]}
+                     {:words ["a|que|le"]}
+                     {:words ["a|que|la"]}
+                     {:words ["a|qui" "a|qui|lo"]}
+                     {:words ["qui|e|ta" "qui|e|to"]}
+                     {:words ["qual"]}
+                     {:words ["qua|li|da|de"]}]}
+             ]}
+ {:id       15
+  :name     "Décima Quinta Lição"
+  :guidance "lesson15"
+  :pages    [{:rows [{:words ["c"]
+                      :align "center"}
+                     {:words ["ce" "ci"]
+                      :align "center"}
+                     {:words ["ce|bo" "ce|bo|la"]}
+                     {:words ["ce|do" "cei|a" "fa|ce"]}
+                     {:words ["al|fa|ce" "foi|ce"]}
+                     {:words ["ba|ci|a" "ci|da|de"]}
+                     {:words ["cá" "cal" "cal|do"]}
+                     {:words ["cal|vo" "cul|pa"]}]}
+             {:rows [{:words ["ca|co" "ca|cei"]}
+                     {:words ["ca|ce" "cal|cei"]}
+                     {:words ["ca|ce|ta|da"]}
+                     {:words ["ç"]
+                      :align "center"}
+                     {:words ["a|ço" "bei|ço" "bu|ço"]}
+                     {:words ["ca|ça" "ca|ba|ça"]}
+                     {:words ["ca|be|ça" "co|ça"]}
+                     {:words ["cal|ça" "cal|ça|da"]}]}
+             ]}
+ {:id       16
+  :name     "Décima Sexta Lição"
+  :guidance "lesson16"
+  :pages    [{:rows [{:words ["g"]
+                      :align "center"}
+                     {:words ["ge" "gi"]
+                      :align "center"}
+                     {:words ["ge|bo" "ge|a|da"]}
+                     {:words ["fo|ge" "ti|ge|la"]}
+                     {:words ["vi|gi|a" "co|lé|gio"]}
+                     {:words ["ga|go" "á|gua"]}
+                     {:words ["é|gua" "i|gual"]}
+                     {:words ["ga|lo" "gal|go"]}]}
+             {:rows [{:words ["gol|pe" "pul|ga"]}
+                     {:words ["ce|go" "a|cel|ga"]}
+                     {:words ["gi|ga" "go|e|la"]}
+                     {:words ["gue" "gui"]
+                      :align "center"}
+                     {:words ["jo|gue" "pa|gue"]}
+                     {:words ["fol|gue" "ce|gue"]}
+                     {:words ["gui|a" "gui|ta"]}
+                     {:words ["a|lu|guei" "ga|gue|ja"]}]}
+             ]}
+ {:id       17
+  :name     "Décima Sétima Lição"
+  :guidance "lesson17"
+  :pages    [{:rows [{:words ["r"]
+                      :align "center"}
+                     {:words ["rei" "ru|a" "rai|o"]}
+                     {:words ["rai|va" "ri|jo" "ra|to"]}
+                     {:words ["fe|rro" "ja|rro"]}
+                     {:words ["te|rra" "bu|rro"]}
+                     {:words ["i|ra" "va|ra" "fe|ra"]}
+                     {:words ["fu|ro" "ju|ra" "pu|ro"]}
+                     {:words ["ar" "ir" "vir" "for"]}
+                     {:words ["flor" "dar" "ver"]}]}
+             {:rows [{:words ["ver|de" "per|da"]}
+                     {:words ["par|do" "per|to"]}
+                     {:words ["pre|to" "pra|to"]}
+                     {:words ["bru|to" "po|bre"]}
+                     {:words ["i|rar" "vi|rar"]}
+                     {:words ["va|rrer" "fe|rrar"]}
+                     {:words ["ra|ro" "re|ti|ro"]}
+                     {:words ["rir" "ro|er" "ra|tar"]}
+                     {:words ["re|par|tir"]}]}
+             {:rows [{:words ["re|ci|bo" "re|cei|o"]}
+                     {:words ["ri|co" "ró|ca" "ru|ço"]}
+                     {:words ["ca|rro" "ga|rra|fa"]}
+                     {:words ["ga|rra" "gue|rra"]}
+                     {:words ["ce|ra" "ce|rol"]}
+                     {:words ["ca|ra" "ca|ra|col"]}
+                     {:words ["cor|da" "a|çor|da"]}
+                     {:words ["ge|ral" "gô|ro"]}
+                     {:words ["a|go|ra" "a|gou|ro"]}]}
+             {:rows [{:words ["cer|to" "car|ta"]}
+                     {:words ["gar|fo" "gri|to"]}
+                     {:words ["gri|tar" "có|rar"]}
+                     {:words ["ce|ar" "re|ce|ber"]}
+                     {:words ["re|ge|dor" "ro|gar"]}
+                     {:words ["ce|rrar" "co|rrer"]}
+                     {:words ["a|ga|rrar" "go|rar"]}
+                     {:words ["ca|rre|gar"]}
+                     {:words ["re|cor|dar"]}]}
+             {:rows [{:words [" " "— Ó" "Pe|dro," "que" "é" "do"]}
+                     {:words ["li|vro" "de" "ca|pa" "ver|de,"]}
+                     {:words ["que" "te" "deu" "o" "a|vô?"]}
+                     {:words [" " "— Já" "o" "dei" "ao" "Jor|ge" "a"]}
+                     {:words ["guar|dar."]}
+                     {:words [" " "— Vai" "lá" "pe|di|-lo."]}]}
+             {:rows [{:words [" " "— Pa|ra" "quê?"]}
+                     {:words [" " "— Pa|ra" "a" "ti|a" "Car|lo|ta"]}
+                     {:words ["ver" "a" "gra|vu|ra" "do" "ca|ça-"]}
+                     {:words ["dor."]}
+                     {:words [" " "— Ou|ve" "cá:" "a" "po|bre"]}
+                     {:words ["da" "Cla|ra" "i|a" "a|brir" "a"]}
+                     {:words ["por|ta" "do" "quar|to," "ca|iu,"]}
+                     {:words ["que|brou" "a" "ga|rra|fa" "do"]}
+                     {:words ["pe|tró|leo," "e" "fi|cou" "fe|ri-"]}
+                     {:words ["da." "Vou" "a|go|ra" "à" "bo|ti-"]}
+                     {:words ["ca;" "le|vo" "a|qui" "a" "re|cei|ta:"]}
+                     {:words ["à" "tar|de" "lo|go" "fa|lo" "ao"]}
+                     {:words ["Jor|ge," "e" "di|go" "que" "to"]}
+                     {:words ["dê."]}
+                     {:words [" " "— Pa|la|vra?"]}
+                     {:words [" " "— Pa|la|vra, Jú|lio, fi|ca"]}
+                     {:words ["cer|to."]}
+                     {:words [" " "— Vê lá, cui|da|do!"]}]}
+             ]}
+ {:id       18
+  :name     "Décima Oitava Lição"
+  :guidance "lesson18"
+  :pages    [{:rows [{:words ["z"]
+                      :align "center"}
+                     {:words ["ze|lei" "ze|lou"]}
+                     {:words ["ze|lar" "a|zi|a"]}
+                     {:words ["a|zul" "a|zei|te"]}
+                     {:words ["a|ze|dar" "va|zi|a"]}
+                     {:words ["lu|ziu" "lu|zir"]}
+                     {:words ["fa|zer" "ja|zer"]}
+                     {:words ["ja|zi|a" "ja|zi|go"]}
+                     {:words ["a|zar" "a|zou|gue"]}]}
+             {:rows [{:words ["faz" "fiz"]}
+                     {:words ["fez" "vez" "jaz"]}
+                     {:words ["ju|iz" "luz" "diz"]}
+                     {:words ["paz"]}
+                     {:words ["ca|paz" "la|puz"]}
+                     {:words ["a|rroz" "ra|paz" "fe|roz"]}
+                     {:words ["traz" "te|naz" "cruz"]}]}]}
+ {:id       19
+  :name     "Décima Nona Lição"
+  :guidance "lesson19"
+  :pages    [{:rows [{:words ["s"]
+                      :align "center"}
+                     {:words ["só" "sa|fa" "sil|va"]}
+                     {:words ["pa|sso" "to|sse"]}
+                     {:words ["li|so" "qua|si"]}
+                     {:words ["bois" "di|as" "teus"]}
+                     {:words ["sou|be|sse"]}
+                     {:words ["de|su|sa|dos"]}
+                     {:words ["sós" "seus" "su|as"]}
+                     {:words ["si|so" "si|su|dos"]}]}
+             {:rows [{:words ["is|to" "es|te" "es|ta"]}
+                     {:words ["es|tá" "es|te|ve"]}
+                     {:words ["vis|to" "ves|tes"]}
+                     {:words ["fos|te" "jus|to"]}
+                     {:words ["pos|tas" "bas|ta"]}
+                     {:words ["pas|tas" "pes|te"]}
+                     {:words ["les|te" "lis|tas"]}
+                     {:words ["val|sa" "sal|sa"]}
+                     {:words ["fal|sos" "pul|so"]}]}
+             {:rows [{:words ["só|cio" "sú|cio"]}
+                     {:words ["ca|so" "a|ce|sa"]}
+                     {:words ["fa|ces" "cis|co"]}
+                     {:words ["se|ge" "si|go"]}
+                     {:words ["se|guir" "gu|lo|so"]}
+                     {:words ["gui|sa|dos"]}
+                     {:words ["so|gro" "gro|ssa"]}
+                     {:words ["su|ce|de|sses"]}
+                     {:words ["per|se|gui|sses"]}]}
+             {:rows [{:words ["ser" "sa|ir" "sor|te"]}
+                     {:words ["a|ssar" "ru|sso"]}
+                     {:words ["ri|sses" "ri|sa|da"]}
+                     {:words ["ro|sa" "ri|so" "ra|so"]}
+                     {:words ["ru|ssa" "gro|ssos"]}
+                     {:words ["gri|tos" "gor|dos"]}
+                     {:words ["sa|gaz" "fi|ze|sse"]}
+                     {:words ["zur|zi|sses"]}
+                     {:words ["re|zes" "lu|zi|sse"]}]}
+             ]}
+ {:id       20
+  :name     "Vigésima Lição"
+  :guidance "lesson20"
+  :pages    [{:rows [{:words ["x"]
+                      :align "center"}
+                     {:words ["fi|xo" "fi|xa" "fi|xar"]}
+                     {:words ["flu|xo" "de|flu|xo"]}
+                     {:words ["re|fle|xo" "se|xo"]}
+                     {:words ["au|xi|li|as|te"]}
+                     {:words ["au|xi|li|a|ri|as"]}
+                     {:words ["au|xi|li|a|sses"]}
+                     {:words ["e|xis|te" "e|xis|tir"]}
+                     {:words ["e|xer|ci|ta|rás"]}]}
+             {:rows [{:words ["e|xer|ci|ta|sses" "e|xer|ce|sses" "e|xac|to"]}
+                     {:words ["xa|le" "lu|xo"]}
+                     {:words ["bai|xo" "dei|xar"]}
+                     {:words ["be|xi|go|sas"]}
+                     {:words ["ei|xos" "sei|xos"]}
+                     {:words ["sex|ta"]}
+                     {:words ["ex|pre|ssar"]}]}
+             ]}
+ {:id       21
+  :name     "Vigésima Primeira Lição"
+  :guidance "lesson21"
+  :pages    [{:rows [{:words ["ã" "õ"]
+                      :align "center"}
+                     {:words ["vã" "lâ" "rã" "sã"]}
+                     {:words ["são" "pão" "dão"]}
+                     {:words ["ve|rão" "se|rão"]}
+                     {:words ["cão" "co|ra|ção"]}
+                     {:words ["ra|zão" "car|vão"]}
+                     {:words ["se|zão" "grão"]}]}
+             {:rows [{:words ["grãos" "sãos"]}
+                     {:words ["cães" "ca|pi|tães"]}
+                     {:words ["sa|cris|tães"]}
+                     {:words ["põe" "dis|pões"]}
+                     {:words ["pa|vões" "fei|jões"]}
+                     {:words ["fei|ções" "a|cções"]}
+                     {:words ["ra|tões" "ra|zões" "va|rões"]}
+                     {:words ["la|drão" "ra|ções"]}]}
+             ]}
+ {:id       22
+  :name     "Vigésima Segunda Lição"
+  :guidance "lesson22"
+  :pages    [{:rows [{:words ["m"]
+                      :align "center"}
+                     {:words ["meu" "u|mas"]}
+                     {:words ["mãos" "li|mões"]}
+                     {:words ["mo|ças" "co|mer"]}
+                     {:words ["a|mi|gas" "ge|mer"]}
+                     {:words ["mo|rrer" "mães"]}
+                     {:words ["ma|çãs" "ir|mãos"]}
+                     {:words ["quei|ma|du|ras"]}
+                     {:words ["ro|mãs" "me|xer"]}]}
+             {:rows [{:words ["am"]
+                      :align "center"}
+                     {:words ["em" "im" "om"]}
+                     {:words ["um"]
+                      :align "center"}
+                     {:words ["vim" "fim" "sim"]}
+                     {:words ["a|ssim" "al|gum"]}
+                     {:words ["a|tum" "al|guém"]}
+                     {:words ["quem"]}
+                     {:words ["tam|bém" "som"]}
+                     {:words ["com" "Jo|a|quim"]}]}
+             {:rows [{:words ["ri|em" "lim|pem"]}
+                     {:words ["je|ju|em" "to|mem"]}
+                     {:words ["a|fi|em" "tre|mem"]}
+                     {:words ["cai|em" "co|mem"]}
+                     {:words ["ar|dem" "fu|mem"]}
+                     {:words ["te|mem" "lê|em"]}
+                     {:words ["com|pa|ra|rem"]}
+                     {:words ["a|ma|ssa|rem"]}
+                     {:words ["e|ma|la|rão"]}]}
+             {:rows [{:words ["i|am" "dur|mam"]}
+                     {:words ["a|mam" "te|mam"]}
+                     {:words ["fi|cam" "ras|pam"]}
+                     {:words ["le|vam" "pu|xam"]}
+                     {:words ["vi|am" "zur|zi|am"]}
+                     {:words ["to|cam" "ar|mam"]}
+                     {:words ["li|gam" "su|mam"]}
+                     {:words ["e|ma|gre|çam"]}
+                     {:words ["com|pli|ca|ri|am"]}]}
+             ]}
+ {:id       23
+  :name     "Vigésima Terceira Lição"
+  :guidance "lesson23"
+  :pages    [{:rows [{:words ["n"]
+                      :align "center"}
+                     {:words ["nós" "nau" "cli|na"]}
+                     {:words ["no|mes" "ma|nos"]}
+                     {:words ["na|da" "me|ni|nos"]}
+                     {:words ["a|nões" "per|nas"]}
+                     {:words ["i|ma|gi|na|vam"]}
+                     {:words ["car|ne" "es|qui|na"]}
+                     {:words ["a|fi|na|ção" "não"]}
+                     {:words ["so|no" "í|man"]}]}
+             {:rows [{:words ["an"]
+                      :align "center"}
+                     {:words ["en" "in" "on"]}
+                     {:words ["un"]
+                      :align "center"}
+                     {:words ["an|tes" "sin|ge|lo"]}
+                     {:words ["an|ca" "se|gun|do"]}
+                     {:words ["ban|co" "an|dam"]}
+                     {:words ["ân|sias" "brin|co"]}
+                     {:words ["an|jo" "tran|cam"]}
+                     {:words ["en|ten|di|men|to"]}]}
+             ]}
+ {:id       24
+  :name     "Vigésima Quarta Lição"
+  :guidance "lesson24"
+  :pages    [{:rows [{:words ["h"]
+                      :align "center"}
+                     {:words ["har|pa" "ho|mem"]}
+                     {:words ["hon|ra" "ho|ra"]}
+                     {:words ["ha|ver" "ho|je"]}
+                     {:words ["hós|ti|as" "hi|no" "ho|ri|zon|te"]}
+                     {:words ["he|si|tar" "he|rói"]}
+                     {:words ["he|ra" "hu|mil|de"]}]}
+             {:rows [{:words ["nh"]
+                      :align "center"}
+                     {:words ["u|nha" "pu|nham"]}
+                     {:words ["ti|nha" "ne|nhum"]}
+                     {:words ["ni|nho" "ma|nhã"]}
+                     {:words ["vi|nha" "gru|nhir"]}
+                     {:words ["li|nha" "te|nham"]}
+                     {:words ["fro|nha" "pi|nhão"]}
+                     {:words ["Ju|nho" "a|ze|nha"]}
+                     {:words ["le|nha" "ta|ma|nho"]}]}
+             {:rows [{:words ["lh"]
+                      :align "center"}
+                     {:words ["o|lho" "es|pe|lhos"]}
+                     {:words ["dá|-lhe" "jo|e|lhos"]}
+                     {:words ["bu|lha" "o|ve|lhas"]}
+                     {:words ["a|ze|lha" "gre|lha"]}
+                     {:words ["fi|lhos" "ra|lham"]}
+                     {:words ["gra|lha" "tri|lhar"]}
+                     {:words ["a|lho" "pa|lhi|nha"]}
+                     {:words ["i|lha" "o|re|lhi|nha"]}]}
+             {:rows [{:words ["ch"]
+                      :align "center"}
+                     {:words ["chá" "ca|cho|rro"]}
+                     {:words ["chão" "cha|fa|riz"]}
+                     {:words ["cha|pa" "che|gar"]}
+                     {:words ["chei|o" "col|chão"]}
+                     {:words ["cha|mar" "cho|ca|lho"]}
+                     {:words ["chi|ta" "cho|rar"]}
+                     {:words ["chu|va" "chum|bo"]}]}
+             ]}
+ ]

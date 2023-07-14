@@ -12,10 +12,14 @@ enum TextTheme: String, CaseIterable, Codable {
     case menlo = "Menlo"
     case times = "Times"
     case important = "Important"
+    case ny = "NewYork"
     
     var attributeContainer: AttributeContainer {
         var container = AttributeContainer()
         switch self {
+        case .ny:
+            container.font = .system(.largeTitle, design: .serif)
+            container.foregroundColor = .teal
         case .menlo:
             container.font = .custom("Menlo", size: 17, relativeTo: .body)
             container.foregroundColor = .indigo

@@ -34,12 +34,12 @@ struct WordGrid: View {
                                     }
                                 }
                             }
-                            //.background()
+                            //.background(.red)
                         }
                     }
                     .padding()
                     //.background(.red)
-                    .frame(width: geometry.size.width * 0.6)
+                    .frame(width: geometry.size.width * 0.4)
                     Spacer()
                 }
                 Spacer()
@@ -50,6 +50,6 @@ struct WordGrid: View {
 
 struct WordGrid_Previews: PreviewProvider {
     static var previews: some View {
-        WordGrid(rows: ModelData().lessons[1].pages[0].rows, selectedTheme: .times)
+        WordGrid(rows: ModelData().lessons[16].pages[5].rows, selectedTheme: .ny)
     }
 }

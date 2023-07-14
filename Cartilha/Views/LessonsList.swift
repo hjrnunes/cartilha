@@ -10,7 +10,7 @@ import SwiftUI
 struct LessonsList: View {
     
     @EnvironmentObject var modelData: ModelData
-    var selectedTheme: TextTheme = .times
+    var selectedTheme: TextTheme = .ny
     
     var body: some View {
         NavigationStack {
